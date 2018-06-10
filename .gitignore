@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.idea/*
+Pipfile.lock
+.env
+static
